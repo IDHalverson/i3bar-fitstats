@@ -1,0 +1,18 @@
+##############
+## DEFAULTS ##
+##############
+
+# . . . your defaults . . .
+
+############
+## BLOCKS ##
+############
+
+# . . . your other blocks . . .
+
+[fitbit]
+command=bash $HOME/.config/i3blocks/blocklets/fitbit #adjust path as needed
+label=STEPS: #modify as desired
+interval=30 #watch out for rate limits (Fitbit docs: https://dev.fitbit.com/build/reference/web-api/basics/#:~:text=You%20can%20make%20150%20API,using%20the%20user's%20access%20token)
+
+# . . . your other blocks . . .
