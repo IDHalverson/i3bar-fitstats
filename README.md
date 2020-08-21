@@ -3,7 +3,7 @@ Display your daily Fitbit stats in the status bar of i3wm by using this script w
 
 ## Dependencies
 
-(i3blocks)[https://github.com/vivien/i3blocks]
+[i3blocks](https://github.com/vivien/i3blocks)
 
 ## Getting started
 
