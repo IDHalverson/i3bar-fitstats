@@ -9,4 +9,4 @@ Display your daily Fitbit stats in the status bar of i3wm by using this script w
 
 1. You will need to register a Fitbit app in order to acquire a client_id and client_secret, which will be used by the script. Then you will need to complete the Oauth2.0 process to authorize your app from your Fitbit account. More details on this step will be added in the future.
 
-2. Check out the i3blocks documentation. Once you understand how the config works, and what a "[blocket](https://github.com/vivien/i3blocks#:~:text=What%20is%20a%20blocklet)" is, use the example files (fitbit.sh & config) to set up your Fitbit blocklet.
+2. Check out the i3blocks documentation. Once you understand how the config works, and what a "[blocklet](https://github.com/vivien/i3blocks#:~:text=What%20is%20a%20blocklet)" is, use the example files (fitbit.sh & config) to set up your Fitbit blocklet.
